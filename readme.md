@@ -37,7 +37,7 @@ The **Drum Kit** is a web-based project that simulates the experience of playing
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone 
+    git clone https://github.com/SD007CSE/Drum-Kit.git
     ```
 
 2. Open the `index.html` file in a web browser.
